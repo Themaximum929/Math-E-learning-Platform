@@ -1,0 +1,5 @@
+Imagine you have 3 baskets, and each basket contains 2 apples. How many apples are there in total?
+!6|3
+Not quite, try again!
+That's correct! There are 6 apples in total.
+By multiplying 3 and 2, we found that there are 6 apples in total. So, when you see the "x" sign between two numbers, it means you need to multiply them to find the total or the result of equal groups.

@@ -1,0 +1,40 @@
+I have $50 HKD, and I bought a toy for $25 HKD. How much money do I have left?|$25 HKD|$15 HKD,$30 HKD,$35 HKD
+If I have $100 HKD and I spend $40 HKD on books, how much money will be left with me?|$60 HKD|$30 HKD,$50 HKD,$70 HKD
+I went to a store with $80 HKD. I bought a pencil for $15 HKD and a notebook for $25 HKD. How much money is left with me?|$40 HKD|$35 HKD,$45 HKD,$55 HKD
+If I have $60 HKD and I spend $18 HKD on a snack, how much money will I have left?|$42 HKD|$20 HKD,$30 HKD,$50 HKD
+Jenny has $70 HKD. She spends $25 HKD on a puzzle and $15 HKD on a coloring book. How much money does she have left?|$30 HKD|$20 HKD,$35 HKD,$40 HKD
+If I have $90 HKD and I spend $30 HKD on a game, how much money remains?|$60 HKD|$40 HKD,$50 HKD,$70 HKD
+Sam has $40 HKD. He spends $12 HKD on a toy car and $8 HKD on a ball. How much money does Sam have left?|$20 HKD|$10 HKD,$15 HKD,$25 HKD
+I have $55 HKD. If I spend $25 HKD on a storybook, how much money will be left with me?|$30 HKD|$15 HKD,$20 HKD,$25 HKD
+If I have $120 HKD and I spend $70 HKD on a bicycle helmet, how much money will I have left?|$50 HKD|$40 HKD,$60 HKD,$80 HKD
+Sarah has $65 HKD. She spends $20 HKD on a doll and $18 HKD on a dress. How much money does Sarah have left?|$27 HKD|$30 HKD,$35 HKD,$40 HKD
+If I have $80 HKD and I want to buy a toy that costs $35 HKD, how much more money do I need?|$45 HKD|$20 HKD,$25 HKD,$30 HKD
+John has $50 HKD. He wants to buy a basketball for $25 HKD and a water bottle for $12 HKD. How much money does he need in total?|$37 HKD|$20 HKD,$22 HKD,$30 HKD
+I want to buy a toy for $45 HKD, but I only have $30 HKD. How much more money do I need?|$15 HKD|$10 HKD,$20 HKD,$25 HKD
+Lisa has $70 HKD. She wants to buy a toy set for $40 HKD and a coloring book for $15 HKD. How much money does she need in total?|$55 HKD|$30 HKD,$45 HKD,$60 HKD
+If I have $60 HKD and I want to buy a puzzle that costs $28 HKD, how much more money do I need?|$32 HKD|$20 HKD,$25 HKD,$30 HKD
+Tom has $45 HKD. He wants to buy a toy car for $22 HKD and a ball for $18 HKD. How much money does he need in total?|$5 HKD|$10 HKD,$12 HKD,$15 HKD
+I want to buy a game for $55 HKD, but I only have $30 HKD. How much more money do I need?|$25 HKD|$20 HKD,$30 HKD,$35 HKD
+Emma has $90 HKD. She wants to buy a storybook for $35 HKD and a coloring set for $25 HKD. How much money does she need in total?|$60 HKD|$40 HKD,$50 HKD,$70 HKD
+If I have $75 HKD and I want to buy a bicycle helmet that costs $50 HKD, how much more money do I need?|$25 HKD|$20 HKD,$30 HKD,$40 HKD
+Jake has $40 HKD. He wants to buy a toy train for $28 HKD and a teddy bear for $10 HKD. How much money does he need in total?|$22 HKD|$15 HKD,$20 HKD,$25 HKD
+The price of a shirt is $40. If I have $60, how much change will I get back?|$20|$10,$15,$25
+If a book costs $15 and I give the cashier $20, how much change will I receive?|$5|$10,$12,$18
+Sarah has $50. She spends $25 on groceries and $15 on clothes. How much money does she have left?|$10|$5,$20,$30
+I have $80 and I want to buy a video game that costs $60. How much money will I have left?|$20|$10,$30,$40
+A toy costs $12. If I have $25, how much money will I have left after purchasing the toy?|$13|$10,$15,$20
+If a movie ticket costs $8 and I have $30, how many movie tickets can I buy?|3|2,4,5
+John has $100. He spends $65 on a new phone. How much money does he have left?|$35|$25,$40,$50
+I want to buy a candy bar for $2, but I only have $1. How much more money do I need?|$1|$2,$3,$4
+The price of a necklace is $50. If I have $80, how much money will I have left after buying the necklace?|$30|$20,$40,$60
+If I have $150 and I want to buy a computer that costs $120, how much money will I have left?|$30|$40,$50,$60
+Tom has $30. He spends $10 on lunch and $8 on a movie ticket. How much money does he have left?|$12|$15,$18,$20
+I want to buy a skateboard for $80, but I currently have $50. How much more money do I need?|$30|$20,$40,$50
+The price of a video game is $50. If I have $70, how much change will I get back?|$20|$10,$15,$25
+If a concert ticket costs $75 and I give the cashier $100, how much change will I receive?|$25|$15,$20,$30
+Emma has $60. She spends $25 on a gift and $10 on snacks. How much money does she have left?|$25|$15,$20,$30
+I have $90 and I want to buy a new phone that costs $80. How much money will I have left?|$10|$15,$20,$30
+A video game costs $50. If I have $30, how much more money do I need to buy the game?|$20|$10,$15,$25
+If a shirt costs $25 and I have $40, how much change will I get back?|$15|$10,$12,$18
+Mark has $70. He spends $45 on a watch. How much money does he have left?|$25|$15,$30,$40
+I want to buy a book for $15, but I only have $10. How much more money do I need?|$5|$8,$12,$18

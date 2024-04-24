@@ -1,0 +1,6 @@
+Addition 1
+Subtraction 1
+Multiplication 0
+Division 0
+Currency_I 1
+Length_and_Distance_I 0
