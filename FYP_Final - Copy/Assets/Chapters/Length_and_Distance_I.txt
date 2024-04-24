@@ -1,7 +1,0 @@
-Length and distance are measurements used to determine the size, extent, or span of objects or the space between two points.
-How many meters is 100 centimeters?
-10 meters|!1 meter
-Not quite, try again!
-That's correct! The 1 meter is equal to 100 centimeters
-Length is typically measured using units such as centimeters (cm) or inches (in).
-So, next time you need to measure something, remember to choose the appropriate unit of length based on the scale of the object or distance you are measuring.

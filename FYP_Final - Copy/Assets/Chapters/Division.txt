@@ -1,6 +1,0 @@
-Imagine you have 20 cookies, and you want to share them equally among 4 friends. How many cookies will each friend get?
-!5|6
-Not quite, try again!
-That's correct! Each friend will get 5 cookies.
-By performing the division operation 20 ÷ 4, we found that each friend will receive 5 cookies.
-So, when you see the "÷" sign between two numbers, it means you need to divide them to distribute or allocate the quantity equally.

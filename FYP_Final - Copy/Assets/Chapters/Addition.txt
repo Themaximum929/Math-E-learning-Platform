@@ -1,7 +1,0 @@
-Imagine you have 2 apples in one hand and 3 apples in your other hand. Now, if you put all the apples together, how many do you have?
-4|!5
-Not quite, try to count one by one!
-That's right, you have 5 apples!
-This is what addition is all about. We just added 2 and 3 to get 5.
-So, in math, when we say 2 plus 3 (which we write as 2 + 3), it means we are adding 2 and 3 together, which gives us 5.
-That's all there is to it! Addition is just bringing numbers together to make a bigger number. So next time when you see "+" sign between two numbers, you know it's time to add them up!

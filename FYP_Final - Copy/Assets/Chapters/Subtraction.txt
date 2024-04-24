@@ -1,6 +1,0 @@
-Subtraction is all about taking away. When you see the "-" sign between two numbers, it means you need to subtract the second number from the first number.
-Imagine you have 7 apples and you subtract 3 apples, you are taking away 3 from 7. How many apples do you have now?
-!4|3
-Not quite, try again!
-That's correct! There are 4 apples left on the shelf.
-In this case, we started with 7 apples and subtracted 3, which gave us the answer of 4. So, whenever you see the "-" sign between two numbers, you know it's time to subtract them to find the remaining amount.
